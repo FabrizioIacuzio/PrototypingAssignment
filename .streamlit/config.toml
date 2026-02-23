@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#c5221f" # Gmail Red for the 'Generate' button
+backgroundColor = "#ffffff" # Pure White
+secondaryBackgroundColor = "#f1f3f4" # Light Grey for the sidebar/inbox
+textColor = "#202124" # Dark Grey for text
+font = "sans serif"
